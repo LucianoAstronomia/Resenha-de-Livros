@@ -1,4 +1,4 @@
-# Resenha-do livro: Introdução à programação com Python, Nilo Ney Coutinho Menezes
+# Resenha do livro: Introdução à programação com Python, Nilo Ney Coutinho Menezes
 
 Este post tem como principal objetivo tratar do material apresentado por Nilo Ney Coutinho Menezes, como uma alternativa e apoio (não oficial) ao seu livro com o uso do Jupyter Notebook. 
 
