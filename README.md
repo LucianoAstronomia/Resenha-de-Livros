@@ -1,1 +1,12 @@
 # Resenha-de-Livros
+
+Este post tem como principal objetivo tratar do material apresentado por Nilo Ney Coutinho Menezes, como uma alternativa e apóio (não oficial) ao seu livro. 
+
+Sugerimos que você obtenha o livro do autor mencionado acima (Introdução à programação com Python  - algoritmo e lógica de programação para iniciantes. Editora: NOVATEC, 3ª Edição.) e acompanhe, alternativamete, o nosso material. 
+
+Este conteúdo tem ainda, a intenção apenas de ampliar apresentar solucionários aos problemas e exercícios propostos pelo autor.
+
+Desde já, agradeço sua visita e bons estudos!
+
+
+OBS: Dúvidas específicas, sugerimos que o site http://python.nilo.prof.br seja consultado.
